@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["Pikachu","Charmmander","Bulbasaur","Squirtle"]
+  ["Pikachu","Charmmander","Bulbasaur","arrays!"]
 end
 
 def add_element_to_end_of_array(array, element)
